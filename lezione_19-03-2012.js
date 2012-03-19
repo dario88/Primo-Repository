@@ -54,7 +54,7 @@ var comp = function(arrayNfunzioni) {
 	};
 }
 /**
-var comp ? function(array) {
+var comp = function(array) {
 	return function(x) {
 		return array.reduce(comp2);
 	};
